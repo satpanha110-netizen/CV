@@ -1,0 +1,85 @@
+.body{
+    width: 1000px;
+    height: 80vh;
+    margin: auto;
+    display: flex;
+}
+.box1{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(31, 55, 81);
+}
+.box2{
+    width: 70%;
+    height: 100%;
+    background-color:whitesmoke;
+}
+.imag{
+   display:flex;
+   margin-top: 10px;
+   margin-left: 90px;
+   
+   
+}
+.content{
+   display:grid;
+   margin-top: 20px;
+   margin-left: 60px; 
+}
+.line{
+    width: 90%;
+    height: 3px;
+    background-color: aliceblue;
+    margin: 10px 0 5px;
+}
+.skill{
+   display:grid;
+   margin-top: 20px;
+   margin-left: 60px; 
+}
+.name{
+    display: grid;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+.line1{
+    width: 15%;
+    height: 5px;
+    background-color: rgb(31, 55, 81);
+    margin: -10px 0px 5px;
+}
+.profile{
+    display: grid;
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+.line-text{
+    width: 90%;
+    height: 2px;
+    background-color: rgb(31, 55, 81);
+    margin: -10px 0px 5px;
+}
+.line-text1{
+    width: 2px;
+    height:240%;
+    background-color: rgb(31, 55, 81);
+    margin: -75px 20px 0px;
+}
+.experience{
+    display: grid;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.line_height{
+    display: flex;
+}
+.line-text2{
+    width: 2px;
+    height:240%;
+    background-color: rgb(31, 55, 81);
+    margin: -100px 20px 0px;
+}
+
+
